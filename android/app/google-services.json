@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832137402726",
+    "project_id": "losipa",
+    "storage_bucket": "losipa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832137402726:android:0752959747d4d2a0ba90a7",
+        "android_client_info": {
+          "package_name": "com.example.lsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832137402726-ivi41p7vqvtjp05r1uee4tevrk3lfpk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTOTUGYRc42yMFMCcDWEGEfIYnhUwzuAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832137402726-ivi41p7vqvtjp05r1uee4tevrk3lfpk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
