@@ -1,4 +1,4 @@
-# lsp
+# lsp__Sidebar
 
 A new Flutter project.
 
